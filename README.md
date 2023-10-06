@@ -3,6 +3,7 @@
 ### ¿Que es Reddit?
 Es un sitio web de redes sociales y agregación de noticias donde los usuarios pueden agregar texto, imágenes, videos o enlaces. Los usuarios pueden calificar o criticar el contenido que aparece en los artículos mostrados. Lo que viene a ser un foro.
 ![Reddit](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005RedditIkerAmador/blob/main/Reddit-Logo.wine.png)
+
 ### Origen de Reddit y su historia.
 Este sitio web fue creado por Steven Huffman y Alexis Ohanian el 23 de junio de 2005 en Medford, Massachusetts.
 
@@ -16,3 +17,8 @@ En abril de 2017, se iniciaron las pruebas de r/space.
 
 En mayo de 2018 cambiaron la apariencia básica y más del 80% de los usuarios no estuvieron de acuerdo.
 ![r/space](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005RedditIkerAmador/blob/main/r%20space.jpg)
+
+### Funcionamineto de Reddit
+El sitio tiene un foro donde los usuarios pueden discutir los enlaces publicados y enviar o recibir información de otros usuarios. Cuando una publicación recibe un voto negativo, el enlace no aparecerá en la página de inicio, incluso si los lectores pueden acceder al enlace o cambiar sus preferencias. Los usuarios que envíen publicaciones serán recompensados ​​con puntos "Karma" por votar en sus publicaciones.
+![Pagina Principal](https://github.com/kuromazin/SMX2M8UF1A1HistoriaWeb2005RedditIkerAmador/blob/main/reddit%20pagina%20principal.jpg)
+
